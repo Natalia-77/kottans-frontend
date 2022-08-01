@@ -17,4 +17,4 @@
 - [ ] Website Performance Optimization - optional
 - [ ] Friends App - real project!
 
-[![I am an ukrainian](/assets/images/ukraine.jpg "Ukraine")]
+![I am an ukrainian](/assets/images/ukraine.jpg "Ukraine")
