@@ -16,4 +16,5 @@
 - [ ] Memory pair game — real project!
 - [ ] Website Performance Optimization - optional
 - [ ] Friends App - real project!
+
 [![I am an ukrainian](/assets/images/ukraine.jpg "Ukraine")]
